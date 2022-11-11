@@ -7,8 +7,8 @@
 #include <iostream>
 #include <ctime>
 #include <windows.h>
-#define SP1 0//100
-#define SP5 0//500
+#define SP1 100
+#define SP5 500
 using namespace std;
 
 
