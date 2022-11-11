@@ -1,0 +1,59 @@
+{
+   "player" : [
+      {
+         "name" : "KFC",
+         "record" : [
+            {
+               "coin" : 1500,
+               "day" : 11,
+               "hour" : 0,
+               "minute" : 39,
+               "month" : 11,
+               "result" : "Win",
+               "second" : 11,
+               "year" : 2022
+            },
+            {
+               "coin" : 1500,
+               "day" : 11,
+               "hour" : 0,
+               "minute" : 39,
+               "month" : 11,
+               "result" : "Lose",
+               "second" : 11,
+               "year" : 2022
+            }
+         ]
+      },
+      {
+         "name" : "McDonald",
+         "record" : [
+            {
+               "coin" : 1500,
+               "day" : 11,
+               "hour" : 0,
+               "minute" : 39,
+               "month" : 11,
+               "result" : "Vivo50",
+               "second" : 11,
+               "year" : 2022
+            }
+         ]
+      },
+      {
+         "name" : "Nahida",
+         "record" : [
+            {
+               "coin" : 1500,
+               "day" : 11,
+               "hour" : 0,
+               "minute" : 39,
+               "month" : 11,
+               "result" : "Dendro",
+               "second" : 12,
+               "year" : 2022
+            }
+         ]
+      }
+   ]
+}
