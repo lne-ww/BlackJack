@@ -19,18 +19,3 @@ public:
 	int getChoice();
 	void displayRule();
 };
-
-// player, including dealer
-//class Player
-//{
-//private:
-//	int coin = 1500;
-//	int card[21] = {};
-//public:
-//	int getCoin();
-//	void setCoin(int);
-//	void firstDeal();
-//	int getCard(int);
-//	int sumOfPoint();
-//	void displayCard();
-//};

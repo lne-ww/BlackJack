@@ -45,7 +45,7 @@ int main()
 	Player* p1 = searchPlayer(root, "McDonald");
 	p1->traverseRecord();*/
 
-	start();
+	//start();
 }
 
 //----------------Definition of functions
@@ -175,39 +175,3 @@ void Welcome::displayRule()
 		<< "1: Play\n"
 		<< "2: Leave\n";
 }
-
-//player
-//int Player::getCoin()
-//{
-//	return coin;
-//}
-//void Player::setCoin(int d) // d = amount of change
-//{
-//	coin += d;
-//}
-//void Player::firstDeal()
-//{
-//	card[0] = deal1();
-//	card[1] = deal2();
-//}
-//int Player::getCard(int index)
-//{
-//	return card[index];
-//}
-//int Player::sumOfPoint()
-//{
-//	int sum = 0;
-//	for (int i = 0; i <= 20; i++)
-//		sum += card[i];
-//	return sum;
-//}
-//void Player::displayCard()
-//{
-//	for (int i = 0; i <= 20; i++)
-//	{
-//		if (card[i] != 0)
-//			cout << setw(5) << card[i];
-//	}
-//	cout << '\n';
-//}
-//
